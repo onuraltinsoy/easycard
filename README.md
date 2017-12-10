@@ -1,7 +1,7 @@
 # easycard
 Jquery credit card animation for payment forms
 
-[a DEMO](http://demos.onuraltinsoy.com/en/easycard/example.html)
+[DEMO](http://demos.onuraltinsoy.com/en/easycard/example.html)
 
 ### required##
  - jQuery Javascript Library
